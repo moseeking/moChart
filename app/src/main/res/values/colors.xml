@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#03A9F4</color>
+    <color name="primary_dark">#0288D1</color>
+    <color name="primary_light">#4FC3F7</color>
+
+    <color name="primary_tab">#4FC3F7</color>
+    <color name="tab_text">#ffffff</color>
+
+    <color name="chart_week">#81D4FA</color>
+    <color name="chart_index">#4DD0E1</color>
+    <color name="chart_course">#B2EBF2</color>
+    <color name="chart_item">#E0F7FA</color>
+
+    <color name="accent">#FFC107</color>
+    <color name="primary_text">#000000</color>
+    <color name="secondary_text">#383636</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#000000</color>
+
+</resources>

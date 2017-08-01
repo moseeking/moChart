@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_test"
+            android:title="考试" />
+        <item
+            android:id="@+id/nav_library"
+            android:title="图书馆" />
+        <item
+            android:id="@+id/nav_score"
+            android:title="成绩" />
+        <item
+            android:id="@+id/nav_first"
+            android:title="开学日期" />
+    </group>
+
+    <item android:title="账户操作">
+        <menu>
+            <item
+                android:id="@+id/nav_login"
+                android:title="登录" />
+            <item
+                android:id="@+id/nav_exit"
+                android:title="退出" />
+        </menu>
+    </item>
+
+</menu>
+
